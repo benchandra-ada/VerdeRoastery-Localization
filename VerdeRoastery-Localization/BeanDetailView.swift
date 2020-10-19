@@ -29,10 +29,10 @@ class BeanDetailView: UIView {
         likesButton.setTitle("\(bean.likes)", for: .normal)
         
         // localizing number formats
-        priceLabel.text = "\(bean.price)"
+        priceLabel.text = NumberFormatter.localizedString(from: NSNumber(value: bean.price), number: .currencyISOCode)
         
         // localizing date formats
-        roastDateLabel.text = bean.roastDate.description
+        roastDateLabel.text = DateFormatter.localizedString(from: bean.roastDate, dateStyle: .medium, timeStyle: .none)
         
     }
 

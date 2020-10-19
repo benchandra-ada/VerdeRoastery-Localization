@@ -22,8 +22,8 @@ class BeanDetailViewController: UIViewController {
     
     @IBAction func orderTapped(_ sender: UIButton) {
         
-        let title = "Order Received"
-        let message = "Thank you for ordering!"
+        let title = NSLocalizedString("Order Received", comment: "Order received by the app")
+        let message = NSLocalizedString("Thank you for ordering!", comment: "Thanks the customer for ordering in the app")
         
         let alert = UIAlertController(title: title, message: message, preferredStyle: .alert)
         

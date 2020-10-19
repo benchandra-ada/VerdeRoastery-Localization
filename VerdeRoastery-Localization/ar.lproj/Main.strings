@@ -1,0 +1,30 @@
+/* Class = "UIButton"; normalTitle = "77"; ObjectID = "1cb-1O-a5k"; */
+"1cb-1O-a5k.normalTitle" = "77";
+
+/* Class = "UILabel"; text = "Civet Coffee Beans"; ObjectID = "4jY-eK-A4a"; */
+"4jY-eK-A4a.text" = "Civet Coffee Beans";
+
+/* Class = "UILabel"; text = "These gourmet coffee beans are considered by some to be the best in the world, while others won't go near them. There's controversy over the process of farming these beans, with animals being mistreated and kept in cages with a diet of force-fed coffee beans. Not only is this terrible for the creature, but without a robust diet, the digestive system doesn't create a proper \"Kopi Luwak\" coffee."; ObjectID = "7Nn-US-h2C"; */
+"7Nn-US-h2C.text" = "These gourmet coffee beans are considered by some to be the best in the world, while others won't go near them. There's controversy over the process of farming these beans, with animals being mistreated and kept in cages with a diet of force-fed coffee beans. Not only is this terrible for the creature, but without a robust diet, the digestive system doesn't create a proper \"Kopi Luwak\" coffee.";
+
+/* Class = "UINavigationItem"; title = "Single Origin Beans"; ObjectID = "CO0-cX-V6R"; */
+"CO0-cX-V6R.title" = "Single Origin Beans";
+
+/* Class = "UIButton"; accessibilityLabel = "Tap to order"; ObjectID = "DRV-cq-Xs2"; */
+"DRV-cq-Xs2.accessibilityLabel" = "Tap to order";
+
+/* Class = "UIButton"; normalTitle = "Order"; ObjectID = "DRV-cq-Xs2"; */
+"DRV-cq-Xs2.normalTitle" = "طلب";
+
+/* Class = "UILabel"; text = "25 Oct 2019"; ObjectID = "FE5-Lo-BB4"; */
+"FE5-Lo-BB4.text" = "25 Oct 2019";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "gKb-x4-dhb"; */
+"gKb-x4-dhb.text" = "السعر";
+
+/* Class = "UILabel"; text = "$ 19.50"; ObjectID = "Hdw-kQ-glr"; */
+"Hdw-kQ-glr.text" = "$ 19.50";
+
+/* Class = "UILabel"; text = "Next Roast"; ObjectID = "l9K-sl-R5P"; */
+"l9K-sl-R5P.text" = "تاريخ الشواء";
+
